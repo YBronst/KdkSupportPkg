@@ -3335,7 +3335,7 @@
         "md5sum": "9505d82ad2664e855716521cda348269",
         "name": "Kernel Debug Kit 13.6.1 build 22G2080",
         "seen": "2023-11-14T22:37:40Z",
-        "sha256sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:938c43ec-201e-002d-03a0-805226000000\nTime:2025-02-16T18:26:33.9948895Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Sun, 16 Feb 2025 18:26:34 GMT] - Expiry [Sun, 16 Feb 2025 18:56:34 GMT] - Current [Sun, 16 Feb 2025 18:26:33 GMT]</AuthenticationErrorDetail></Error>",
+        "sha256sum": "8ec6b3c221ebbf29159130bab168743033f0a661fd5e8d685f771d5b842f7902",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22G2080/Kernel_Debug_Kit_13.6.1_build_22G2080.dmg",
         "version": "13.6.1"
     },
