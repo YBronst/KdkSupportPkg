@@ -3021,7 +3021,7 @@
             "kernel.release.t8122": "Darwin Kernel Version 22.6.0: Thu Dec  5 23:41:09 PST 2024; root:xnu-8796.141.3.709.7~4/RELEASE_ARM64_T8122",
             "kernel.release.vmapple": "Darwin Kernel Version 22.6.0: Thu Dec  5 23:40:37 PST 2024; root:xnu-8796.141.3.709.7~4/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "f02c1cff52af0ea66dbc567509db5a94",
+        "md5sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:144bd12b-f01e-0011-4881-837be1000000\nTime:2025-02-20T10:23:09.9957343Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Thu, 20 Feb 2025 10:23:10 GMT] - Expiry [Thu, 20 Feb 2025 10:53:10 GMT] - Current [Thu, 20 Feb 2025 10:23:09 GMT]</AuthenticationErrorDetail></Error>",
         "name": "Kernel Debug Kit 13.7.4 build 22H420",
         "seen": "2025-02-17T17:20:49Z",
         "sha256sum": "3366ecdd8d9baf43a9f19796955add0d14acffb5ea5843aeac8bae918eb624c6",
