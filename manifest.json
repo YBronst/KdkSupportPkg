@@ -3308,7 +3308,7 @@
         "md5sum": "74721d47b5c7393d62344faa11a18789",
         "name": "Kernel Debug Kit 13.6.7 build 22G720",
         "seen": "2024-05-13T20:41:57Z",
-        "sha256sum": "06cbea0186933c608610f9766c175ce2a27f1679d36a45d36e125ee2f4e1bb69",
+        "sha256sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:6d17709e-b01e-0000-0a7e-91e155000000\nTime:2025-03-10T05:38:14.9988457Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Mon, 10 Mar 2025 05:38:15 GMT] - Expiry [Mon, 10 Mar 2025 06:08:15 GMT] - Current [Mon, 10 Mar 2025 05:38:14 GMT]</AuthenticationErrorDetail></Error>",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22G720/Kernel_Debug_Kit_13.6.7_build_22G720.dmg",
         "version": "13.6.7"
     },
