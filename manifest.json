@@ -597,7 +597,7 @@
         "md5sum": "7ecf183bd57b8cfd1a85410ebe153bf1",
         "name": "Kernel Debug Kit 15.1.1 build 24B2091",
         "seen": "2024-11-19T18:35:30Z",
-        "sha256sum": "13e2463dd97939c0e192d4ef43b0306a846db67da4cbcedb68dea9fe85644685",
+        "sha256sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:53cf45be-901e-0007-2b11-958d36000000\nTime:2025-03-14T18:47:09.9995905Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Fri, 14 Mar 2025 18:47:10 GMT] - Expiry [Fri, 14 Mar 2025 19:17:10 GMT] - Current [Fri, 14 Mar 2025 18:47:09 GMT]</AuthenticationErrorDetail></Error>",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/24B2091/Kernel_Debug_Kit_15.1.1_build_24B2091.dmg",
         "version": "15.1.1"
     },
