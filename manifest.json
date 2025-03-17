@@ -1,7 +1,7 @@
 [
     {
         "build": "24E5238a",
-        "date": "9999-01-01T00:00:00",
+        "date": "2025-03-14T23:45:00",
         "fileSize": 920009758,
         "kernel_versions": {
             "kernel": "Darwin Kernel Version 24.4.0: Wed Mar 12 21:16:11 PDT 2025; root:xnu-11417.101.13~4/RELEASE_X86_64",
