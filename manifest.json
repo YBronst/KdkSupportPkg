@@ -802,7 +802,7 @@
         "md5sum": "4015e1f221b3b96f657cb958e7be33c8",
         "name": "Kernel Debug Kit 15.2 build 24C5073e",
         "seen": "2024-11-09T01:36:42Z",
-        "sha256sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:15071d36-e01e-001d-0146-aeece9000000\nTime:2025-04-15T20:42:21.9953658Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Tue, 15 Apr 2025 20:42:22 GMT] - Expiry [Tue, 15 Apr 2025 21:12:22 GMT] - Current [Tue, 15 Apr 2025 20:42:21 GMT]</AuthenticationErrorDetail></Error>",
+        "sha256sum": "4f4843919cde7ade93455db61ce4299a01522ebe796f1ed015846734b09a2129",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/24C5073e/Kernel_Debug_Kit_15.2_build_24C5073e.dmg",
         "version": "15.2"
     },
@@ -2971,7 +2971,7 @@
             "kernel.release.t6031": "Darwin Kernel Version 23.1.0: Mon Oct  9 21:33:00 PDT 2023; root:xnu-10002.41.9~7/RELEASE_ARM64_T6031",
             "kernel.release.t8122": "Darwin Kernel Version 23.1.0: Mon Oct  9 21:32:52 PDT 2023; root:xnu-10002.41.9~7/RELEASE_ARM64_T8122"
         },
-        "md5sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:c38f554b-f01e-0011-2146-ae7be1000000\nTime:2025-04-15T20:42:37.9965971Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Tue, 15 Apr 2025 20:42:38 GMT] - Expiry [Tue, 15 Apr 2025 21:12:38 GMT] - Current [Tue, 15 Apr 2025 20:42:37 GMT]</AuthenticationErrorDetail></Error>",
+        "md5sum": "33bc0fc0376a14097785c236bcaf2ca0",
         "name": "Kernel Debug Kit 14.1 build 23B2077",
         "seen": "2023-11-14T22:36:50Z",
         "sha256sum": "091e70821ead7d2fc45343afca6e70f5727f43c40ed26d25422d4d374a31f8fa",
