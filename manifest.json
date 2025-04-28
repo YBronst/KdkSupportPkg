@@ -1723,7 +1723,7 @@
             "kernel.release.t8122": "Darwin Kernel Version 23.6.0: Thu Sep 12 23:36:06 PDT 2024; root:xnu-10063.141.1.701.1~1/RELEASE_ARM64_T8122",
             "kernel.release.vmapple": "Darwin Kernel Version 23.6.0: Thu Sep 12 23:34:00 PDT 2024; root:xnu-10063.141.1.701.1~1/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "6990a2d5593a77ca0435304986dee679",
+        "md5sum": "",
         "name": "Kernel Debug Kit 14.7.1 build 23H222",
         "seen": "2024-10-28T18:08:12Z",
         "sha256sum": "632ae0779e74c832cad47cc3122d25a3c5a67c3e6d4e150aed4b167b4ce9d900",
@@ -2723,7 +2723,7 @@
             "kernel.release.t8122": "Darwin Kernel Version 23.2.0: Wed Nov 15 21:54:55 PST 2023; root:xnu-10002.61.3~2/RELEASE_ARM64_T8122",
             "kernel.release.vmapple": "Darwin Kernel Version 23.2.0: Wed Nov 15 21:54:25 PST 2023; root:xnu-10002.61.3~2/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "9e1001ae02ceb00e6e911b2ff348a98b",
+        "md5sum": "",
         "name": "Kernel Debug Kit 14.2 build 23C63",
         "seen": "2023-12-05T19:13:40Z",
         "sha256sum": "2eefc313054fc0f9b97fb9c8f2d8193f6900cc19c8d498c6a000a2d8c8600b58",
