@@ -664,7 +664,7 @@
         "md5sum": "aaa44fc490ba28ebb552acfe338e0c40",
         "name": "Kernel Debug Kit 15.2 build 24C100",
         "seen": "2024-12-09T19:18:37Z",
-        "sha256sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:c97c7def-601e-004e-296b-b8cfdd000000\nTime:2025-04-28T18:32:39.9991529Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Mon, 28 Apr 2025 18:32:40 GMT] - Expiry [Mon, 28 Apr 2025 19:02:40 GMT] - Current [Mon, 28 Apr 2025 18:32:39 GMT]</AuthenticationErrorDetail></Error>",
+        "sha256sum": "f2f2f57bdadde2ff4c8abdaa36f7fcfc236e17829a289b5eeec289b6df43f769",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/24C100/Kernel_Debug_Kit_15.2_build_24C100.dmg",
         "version": "15.2"
     },
@@ -2443,7 +2443,7 @@
             "kernel.release.t8122": "Darwin Kernel Version 23.4.0: Fri Jan 12 22:41:18 PST 2024; root:xnu-10063.100.610.0.2~19/RELEASE_ARM64_T8122",
             "kernel.release.vmapple": "Darwin Kernel Version 23.4.0: Fri Jan 12 22:40:08 PST 2024; root:xnu-10063.100.610.0.2~19/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html>\n  <head>\n    <title>618 jwt:jwt-not-provided</title>\n  </head>\n  <body>\n    <h1>Error 618 jwt:jwt-not-provided</h1>\n    <p>jwt:jwt-not-provided</p>\n    <h3>Error 54113</h3>\n    <p>Details: cache-iad-kcgs7200156-IAD 1745865175 1013855497</p>\n    <hr>\n    <p>Varnish cache server</p>\n  </body>\n</html>\n",
+        "md5sum": "2051d09a33a281e0669f0c4672fb7f9f",
         "name": "Kernel Debug Kit 14.4 build 23E5180j",
         "seen": "2024-01-29T19:12:46Z",
         "sha256sum": "dd92489a4b2eb6bb0d9538e6be4af6f3ea7ec4be136616aecb78542cb39be9d3",
