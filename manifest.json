@@ -799,7 +799,7 @@
             "kernel.release.t8132": "Darwin Kernel Version 24.2.0: Fri Oct 25 20:34:51 PDT 2024; root:xnu-11215.60.400.0.1~11/RELEASE_ARM64_T8132",
             "kernel.release.vmapple": "Darwin Kernel Version 24.2.0: Fri Oct 25 20:33:25 PDT 2024; root:xnu-11215.60.400.0.1~11/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html>\n  <head>\n    <title>618 jwt:jwt-not-provided</title>\n  </head>\n  <body>\n    <h1>Error 618 jwt:jwt-not-provided</h1>\n    <p>jwt:jwt-not-provided</p>\n    <h3>Error 54113</h3>\n    <p>Details: cache-iad-kcgs7200094-IAD 1745900794 2389823851</p>\n    <hr>\n    <p>Varnish cache server</p>\n  </body>\n</html>\n",
+        "md5sum": "4015e1f221b3b96f657cb958e7be33c8",
         "name": "Kernel Debug Kit 15.2 build 24C5073e",
         "seen": "2024-11-09T01:36:42Z",
         "sha256sum": "4f4843919cde7ade93455db61ce4299a01522ebe796f1ed015846734b09a2129",
@@ -3002,7 +3002,7 @@
             "kernel.release.t8112": "Darwin Kernel Version 23.1.0: Mon Oct  9 21:28:31 PDT 2023; root:xnu-10002.41.9~6/RELEASE_ARM64_T8112",
             "kernel.release.vmapple": "Darwin Kernel Version 23.1.0: Mon Oct  9 21:26:29 PDT 2023; root:xnu-10002.41.9~6/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "",
+        "md5sum": "ed76047f73ee4aff76f76bbe7694f91a",
         "name": "Kernel Debug Kit 14.1 build 23B74",
         "seen": "2023-10-25T19:11:08Z",
         "sha256sum": "345112db9de7912782b6ebd2fbd7c21ce763a432168cc114e821b7a71ee4cb26",
