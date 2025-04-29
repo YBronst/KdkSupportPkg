@@ -268,7 +268,7 @@
             "kernel.release.t8132": "Darwin Kernel Version 24.4.0: Sat Feb 15 22:49:41 PST 2025; root:xnu-11417.100.533.501.4~3/RELEASE_ARM64_T8132",
             "kernel.release.vmapple": "Darwin Kernel Version 24.4.0: Sat Feb 15 22:49:43 PST 2025; root:xnu-11417.100.533.501.4~3/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "5f55d4f0b33bf724a59117298e6c5f19",
+        "md5sum": "",
         "name": "Kernel Debug Kit 15.4 build 24E5206s",
         "seen": "2025-02-24T21:19:14Z",
         "sha256sum": "b6d35edbe10aed2c674fd026885dc51d564787707f17af8c19ffca49e445dc02",
@@ -1126,7 +1126,7 @@
         "md5sum": "e401d3e4e0a8d4858cea7c28651cc805",
         "name": "Kernel Debug Kit 15.1 build 24B5046f",
         "seen": "2024-09-19T18:33:23Z",
-        "sha256sum": "\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html>\n  <head>\n    <title>618 jwt:jwt-not-provided</title>\n  </head>\n  <body>\n    <h1>Error 618 jwt:jwt-not-provided</h1>\n    <p>jwt:jwt-not-provided</p>\n    <h3>Error 54113</h3>\n    <p>Details: cache-iad-kjyo7100030-IAD 1745938235 3237334475</p>\n    <hr>\n    <p>Varnish cache server</p>\n  </body>\n</html>\n",
+        "sha256sum": "5af161b1f6a86c66a7fbcdbada0e9717ff2bbe6c4357ec2f5057bc2d38745cd0",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/24B5046f/Kernel_Debug_Kit_15.1_build_24B5046f.dmg",
         "version": "15.1"
     },
