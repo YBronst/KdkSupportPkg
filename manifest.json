@@ -2203,7 +2203,7 @@
             "kernel.release.t8122": "Darwin Kernel Version 23.5.0: Tue Mar 26 20:54:53 PDT 2024; root:xnu-10063.120.88.501.3~2/RELEASE_ARM64_T8122",
             "kernel.release.vmapple": "Darwin Kernel Version 23.5.0: Tue Mar 26 20:53:51 PDT 2024; root:xnu-10063.120.88.501.3~2/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "",
+        "md5sum": "5a82cec3c1378ddaf0003eeb04e1267e",
         "name": "Kernel Debug Kit 14.5 build 23F5049f",
         "seen": "2024-04-02T21:15:55Z",
         "sha256sum": "b73cc50f43fd9a5d649775c8fee6d6fa46b530a9be801d17ed1571f2b074b348",
@@ -3064,7 +3064,7 @@
             "kernel.release.t8112": "Darwin Kernel Version 23.1.0: Tue Sep 26 22:11:22 PDT 2023; root:xnu-10002.40.89.501.1~3/RELEASE_ARM64_T8112",
             "kernel.release.vmapple": "Darwin Kernel Version 23.1.0: Tue Sep 26 22:12:50 PDT 2023; root:xnu-10002.40.89.501.1~3/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html>\n  <head>\n    <title>618 jwt:jwt-not-provided</title>\n  </head>\n  <body>\n    <h1>Error 618 jwt:jwt-not-provided</h1>\n    <p>jwt:jwt-not-provided</p>\n    <h3>Error 54113</h3>\n    <p>Details: cache-iad-kcgs7200087-IAD 1745954332 2167592008</p>\n    <hr>\n    <p>Varnish cache server</p>\n  </body>\n</html>\n",
+        "md5sum": "2449474020cb8299bbab414ae5483a69",
         "name": "Kernel Debug Kit 14.1 build 23B5056e",
         "seen": "2023-10-07T16:30:11Z",
         "sha256sum": "17d887f4a78b0832b545e3c483d4752a41cb0ffba0ea4a52363f67949859536c",
