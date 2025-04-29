@@ -3098,7 +3098,7 @@
         "md5sum": "4832514ad81fc85d6e3e1ad727200a7d",
         "name": "Kernel Debug Kit 14.1 build 23B5046f",
         "seen": "2023-10-07T16:31:23Z",
-        "sha256sum": "379e8b9c15e7cb1dd00342c7dff3752a7b6c9e984fb69f140b02d4f0ead07133",
+        "sha256sum": "",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/23B5046f/Kernel_Debug_Kit_14.1_build_23B5046f.dmg",
         "version": "14.1"
     },
