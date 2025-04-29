@@ -1483,7 +1483,7 @@
             "kernel.release.t8122": "Darwin Kernel Version 24.0.0: Mon Jul  1 21:55:30 PDT 2024; root:xnu-11215.0.132.501.1~1/RELEASE_ARM64_T8122",
             "kernel.release.vmapple": "Darwin Kernel Version 24.0.0: Mon Jul  1 21:54:25 PDT 2024; root:xnu-11215.0.132.501.1~1/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "",
+        "md5sum": "5080e9f9c90c3fa8091a03f79c5e29d1",
         "name": "Kernel Debug Kit 15.0 build 24A5289h",
         "seen": "2024-07-15T18:25:27Z",
         "sha256sum": "d680923ccdf309a22d64b6b84f3cfb8f64c9f706f02123b72c220dfcb66dd6eb",
