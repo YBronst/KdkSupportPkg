@@ -4527,7 +4527,7 @@
         "md5sum": "c9dbc69e67e6412ad95bdfde79125608",
         "name": "Kernel Debug Kit 13.2.1 build 22D68",
         "seen": "2023-06-07T15:32:26Z",
-        "sha256sum": "\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html>\n  <head>\n    <title>618 jwt:jwt-not-provided</title>\n  </head>\n  <body>\n    <h1>Error 618 jwt:jwt-not-provided</h1>\n    <p>jwt:jwt-not-provided</p>\n    <h3>Error 54113</h3>\n    <p>Details: cache-iad-kcgs7200136-IAD 1745920020 1984114893</p>\n    <hr>\n    <p>Varnish cache server</p>\n  </body>\n</html>\n",
+        "sha256sum": "b874195aa5408d648cee522ee7e9a44d419c63cef46e5999dd5471813cd4e816",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22D68/Kernel_Debug_Kit_13.2.1_build_22D68.dmg",
         "version": "13.2.1"
     },
