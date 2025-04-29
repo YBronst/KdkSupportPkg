@@ -1446,7 +1446,7 @@
         "md5sum": "20bd209debcf0279b24c2f6de176fcd6",
         "name": "Kernel Debug Kit 15.0 build 24A5298h",
         "seen": "2024-07-23T18:25:03Z",
-        "sha256sum": "",
+        "sha256sum": "68c5e115314a5d33a50c1c22a7386ce1a91232c9542a73d76ed224544a6e023f",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/24A5298h/Kernel_Debug_Kit_15.0_build_24A5298h.dmg",
         "version": "15.0"
     },
