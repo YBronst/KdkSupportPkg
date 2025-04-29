@@ -2523,7 +2523,7 @@
             "kernel.release.t8122": "Darwin Kernel Version 23.3.0: Wed Dec 20 21:30:30 PST 2023; root:xnu-10002.81.5~7/RELEASE_ARM64_T8122",
             "kernel.release.vmapple": "Darwin Kernel Version 23.3.0: Wed Dec 20 21:30:07 PST 2023; root:xnu-10002.81.5~7/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "47655d532ac2ac4352ececd69db6cd4c",
+        "md5sum": "\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html>\n  <head>\n    <title>618 jwt:jwt-not-provided</title>\n  </head>\n  <body>\n    <h1>Error 618 jwt:jwt-not-provided</h1>\n    <p>jwt:jwt-not-provided</p>\n    <h3>Error 54113</h3>\n    <p>Details: cache-iad-kcgs7200051-IAD 1745926792 946783110</p>\n    <hr>\n    <p>Varnish cache server</p>\n  </body>\n</html>\n",
         "name": "Kernel Debug Kit 14.3 build 23D56",
         "seen": "2024-01-22T23:18:08Z",
         "sha256sum": "8161155c949212831875e6f27821ab305d39c34ca65cb5b25b1ba0b64b1aa72b",
@@ -4611,7 +4611,7 @@
             "kernel.release.t8112": "Darwin Kernel Version 22.1.0: Sun Oct  9 20:15:52 PDT 2022; root:xnu-8792.41.9~2/RELEASE_ARM64_T8112",
             "kernel.release.vmapple": "Darwin Kernel Version 22.1.0: Sun Oct  9 20:15:37 PDT 2022; root:xnu-8792.41.9~2/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "456e6607e08a80cbb0a62e41e5746866",
+        "md5sum": "\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html>\n  <head>\n    <title>618 jwt:jwt-not-provided</title>\n  </head>\n  <body>\n    <h1>Error 618 jwt:jwt-not-provided</h1>\n    <p>jwt:jwt-not-provided</p>\n    <h3>Error 54113</h3>\n    <p>Details: cache-iad-kcgs7200051-IAD 1745926813 946950115</p>\n    <hr>\n    <p>Varnish cache server</p>\n  </body>\n</html>\n",
         "name": "Kernel Debug Kit 13.0.1 build 22A400",
         "seen": "2023-01-30T00:43:03Z",
         "sha256sum": "81c26d059652a956169981bbd0b8dc0d7300a66bc825b3220228bc0b87c55dea",
