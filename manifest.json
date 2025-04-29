@@ -480,7 +480,7 @@
         "md5sum": "e57bb631f3bec96e81a7ae17cbe885df",
         "name": "Kernel Debug Kit 15.3 build 24D5055b",
         "seen": "2025-01-17T16:43:16Z",
-        "sha256sum": "",
+        "sha256sum": "22a51c4cddca690be63f4c0a0555cf47078c3bd88cd80573fce8fcbf15941866",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/24D5055b/Kernel_Debug_Kit_15.3_build_24D5055b.dmg",
         "version": "15.3"
     },
