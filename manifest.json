@@ -3002,7 +3002,7 @@
             "kernel.release.t8112": "Darwin Kernel Version 23.1.0: Mon Oct  9 21:28:31 PDT 2023; root:xnu-10002.41.9~6/RELEASE_ARM64_T8112",
             "kernel.release.vmapple": "Darwin Kernel Version 23.1.0: Mon Oct  9 21:26:29 PDT 2023; root:xnu-10002.41.9~6/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "ed76047f73ee4aff76f76bbe7694f91a",
+        "md5sum": "",
         "name": "Kernel Debug Kit 14.1 build 23B74",
         "seen": "2023-10-25T19:11:08Z",
         "sha256sum": "345112db9de7912782b6ebd2fbd7c21ce763a432168cc114e821b7a71ee4cb26",
