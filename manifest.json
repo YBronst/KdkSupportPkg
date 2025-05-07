@@ -1,7 +1,7 @@
 [
     {
         "build": "24F74",
-        "date": "9999-01-01T00:00:00",
+        "date": "2025-05-04T19:41:00",
         "fileSize": 920213107,
         "kernel_versions": {
             "kernel": "Darwin Kernel Version 24.5.0: Tue Apr 22 19:53:26 PDT 2025; root:xnu-11417.121.6~2/RELEASE_X86_64",
@@ -1578,7 +1578,7 @@
     },
     {
         "build": "23H626",
-        "date": "9999-01-01T00:00:00",
+        "date": "2025-05-04T20:06:00",
         "fileSize": 908186852,
         "kernel_versions": {
             "kernel": "Darwin Kernel Version 23.6.0: Thu Apr 24 20:26:36 PDT 2025; root:xnu-10063.141.1.705.2~1/RELEASE_X86_64",
@@ -3469,7 +3469,7 @@
     },
     {
         "build": "22H625",
-        "date": "9999-01-01T00:00:00",
+        "date": "2025-05-04T19:59:00",
         "fileSize": 725035498,
         "kernel_versions": {
             "kernel": "Darwin Kernel Version 22.6.0: Thu Apr 24 20:25:14 PDT 2025; root:xnu-8796.141.3.712.2~1/RELEASE_X86_64",
