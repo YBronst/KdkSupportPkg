@@ -3914,7 +3914,7 @@
             "kernel.release.t8122": "Darwin Kernel Version 22.6.0: Sun Dec 17 22:12:38 PST 2023; root:xnu-8796.141.3.703.2~2/RELEASE_ARM64_T8122",
             "kernel.release.vmapple": "Darwin Kernel Version 22.6.0: Sun Dec 17 22:13:13 PST 2023; root:xnu-8796.141.3.703.2~2/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "d14077beec1386df778ec1dc7271cbf7",
+        "md5sum": "upstream connect error or disconnect/reset before headers. retried and the latest reset reason: remote connection failure, transport failure reason: delayed connect error: Connection refused",
         "name": "Kernel Debug Kit 13.6.4 build 22G513",
         "seen": "2024-01-22T23:19:54Z",
         "sha256sum": "d0279c5f50a86ef6a4cc942f01eaabad22d7973e9152c0c257564aafa601ed76",
