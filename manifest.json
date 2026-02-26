@@ -286,7 +286,7 @@
         "md5sum": "9f7b79087a39c8d28537386f605563c1",
         "name": "Kernel Debug Kit 26.1 build 25B5062e",
         "seen": "2025-10-14T19:19:22Z",
-        "sha256sum": "00a04e83babd18aedc04327771d14c984a2c9f6d717d8e47222e0322b211a87a",
+        "sha256sum": "upstream connect error or disconnect/reset before headers. retried and the latest reset reason: remote connection failure, transport failure reason: delayed connect error: Connection refused",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/25B5062e/Kernel_Debug_Kit_26.1_build_25B5062e.dmg",
         "version": "26.1"
     },
