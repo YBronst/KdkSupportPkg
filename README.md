@@ -17,7 +17,7 @@ Example of pulling releases:
 ```py
 #!/usr/bin/env python3
 
-KDK_API_LINK:        str = "https://raw.githubusercontent.com/dortania/KdkSupportPkg/gh-pages/manifest.json"
+KDK_API_LINK:        str = "https://raw.githubusercontent.com/ybronst/KdkSupportPkg/gh-pages/manifest.json"
 KDK_REQUESTED_BUILD: str = "22F5059b"
 
 catalog = requests.get(KDK_API_LINK)
